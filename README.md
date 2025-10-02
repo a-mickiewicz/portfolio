@@ -1,12 +1,12 @@
 # Porfolio
-## O mnie
+## O MNIE
 
 Nazywam się Arkadiusz Mickiewicz. Jestem absolwentem Architektury i Urbanistyki na Politechnice Poznańskiej, z ponad 15-letnim doświadczeniem zawodowym jako architekt. Przez lata rozwijałem swoje kompetencje w zakresie projektowania, planowania przestrzennego oraz nadzoru nad realizacją różnorodnych inwestycji. Praca w tej branży nauczyła mnie precyzji, dbałości o szczegóły, analitycznego podejścia oraz skutecznej współpracy zarówno z zespołami projektowymi, jak i klientami. Dzięki temu potrafię sprawnie działać w dynamicznym środowisku i elastycznie reagować na zmieniające się potrzeby projektowe.
 
 Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szczególnym zainteresowaniem testowaniem oprogramowania oraz bazami danych. Zmiana ta wynika z mojej pasji do technologii i chęci rozwoju w sektorze, który dynamicznie się zmienia i oferuje ciągłe możliwości nauki. Umiejętności zdobyte w architekturze – takie jak logiczne myślenie, rozwiązywanie złożonych problemów czy podejście projektowe – z powodzeniem wykorzystuję teraz w pracy nad jakością procesów IT. Moim celem jest dalsze doskonalenie kompetencji technicznych i aktywny udział w tworzeniu niezawodnych, funkcjonalnych rozwiązań.
 
 
-## Narzędzia
+## NARZĘDZIA
 - Postman
 - Slack
 - Jira
@@ -20,7 +20,7 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 - Perfect Pixel
 - Page Ruler
 
-## Umiejętności
+## UMIEJĘTNOŚCI
 - Myślenie analityczne
 - Bardzo dobra komunikacja i współpraca
 - Zdolność do adaptacji
@@ -28,19 +28,18 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 - Krytyczne myślenie
 - Chęć do ciągłej nauki i rozwoju
 
-## Umiejętności techniczne
+## UMIEJĘTNOŚCI TECHNICZNE
 - SQL: Postgres, Snowflake, MSSQLServer, MySQL
 - DBT: Visual Studio Code, Snowflake
-- PYTHON: Django, Tkinter
-- CLOUD & DEVOPS TOOLS: AWS, Azure Data Studio
-- TESTING TECHNOLOGY: Jira, Postman, TestLink, 
-- VERSION CONTROL: GIT
-- METHODOLOGIES & PROCESSES: Scrum Agile, Kanban, Waterfall, BDD, XP
-- AI TOOLS: Cursor, Make, OpenAI, Perplexity, Midjourney
-- NOTEPAD ++
-- 
+- Python: Django, Tkinter
+- Cloud & Devops Tools: AWS, Azure Data Studio
+- Testing Ttechnology: Jira, Postman, TestLink, 
+- Version Control: GIT
+- Methodologies & Processes: Scrum Agile, Kanban, Waterfall, BDD, XP
+- AI Tools: Cursor, Make, OpenAI, Perplexity, Midjourney
+- Notepad ++
 
-## Kursy
+## KURSY
 ### QA
 - Manual testing course - Paweł Podraza
 
@@ -54,18 +53,18 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 ### AI
 - AI Devs Course - Generative AI - programming with AI - Adam Gospodarczyk, Jakub Mrugalski
 
-### PYTHON
+### Python
 - Python From Scratch (312h) - Software Developement Academy
 
-### GIT | SCRUM | AGILE | SCRUM | KANBAN | XP | WATERFALL | BDD
+### Git | Scrum | Agile | Kanban | XP | Waterfall | Bdd
 - Version Control - EPAM Course
 - Software Development Methodologies - EPAM Course	
 
-### AWS | DOCKER
+### AWS | Docker
 - Cloud Technologies - EPAM Course
 
-## Doświadczenie
-###QA TESTER
+## DOŚWIADCZENIE
+### QA Tester
 QA Spec Natalia Pawlak			
 - Creating and executing SQL queries to verify data accuracy and functionality
 - Conducting manual functional testing
@@ -76,7 +75,7 @@ QA Spec Natalia Pawlak
 - Collaborating with development teams in reporting bugs, regression testing, and proposing improvements
 - Writing basic automated test scripts in Python
 
-###DATABASE ENGINEER
+### Database Engineer
 Przemysław Starosta
 - Automation of the database and SQL queries for an online store.
 
