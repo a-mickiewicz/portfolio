@@ -7,12 +7,18 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 
 
 ## Narzędzia
-- PicPick
 - Postman
-- Jira, Trello
+- Slack
+- Jira
+- Trello
+- TestLink
 - Github
-- 
-
+- Lambda Test
+- PicPick
+- Window resizer
+- Clear cache
+- Perfect Pixel
+- Page Ruler
 
 ## Umiejętności
 - Myślenie analityczne
@@ -23,16 +29,18 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 - Chęć do ciągłej nauki i rozwoju
 
 ## Umiejętności techniczne
-- SQL: Postgres, Snowflake, MSSQLServer
+- SQL: Postgres, Snowflake, MSSQLServer, MySQL
 - DBT: Visual Studio Code, Snowflake
 - PYTHON: Django, Tkinter
 - CLOUD & DEVOPS TOOLS: AWS, Azure Data Studio
-- TESTING TECHNOLOGY: Jira, Postman, TestLink
+- TESTING TECHNOLOGY: Jira, Postman, TestLink, 
 - VERSION CONTROL: GIT
 - METHODOLOGIES & PROCESSES: Scrum Agile, Kanban, Waterfall, BDD, XP
 - AI TOOLS: Cursor, Make, OpenAI, Perplexity, Midjourney
+- NOTEPAD ++
+- 
 
-## Courses
+## Kursy
 ### QA
 - Manual testing course - Paweł Podraza
 
@@ -46,7 +54,6 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 ### AI
 - AI Devs Course - Generative AI - programming with AI - Adam Gospodarczyk, Jakub Mrugalski
 
-
 ### PYTHON
 - Python From Scratch (312h) - Software Developement Academy
 
@@ -57,6 +64,21 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 ### AWS | DOCKER
 - Cloud Technologies - EPAM Course
 
+## Doświadczenie
+###QA TESTER
+QA Spec Natalia Pawlak			
+- Creating and executing SQL queries to verify data accuracy and functionality
+- Conducting manual functional testing
+- Performing REST API testing using Postman
+- Creating test documentation — test cases, scenarios, and bug reports
+- Verifying AI tools (Generative AI) for correctness of results and testing user prompts
+- Working with version control systems (Git) in team environments following Agile/Scrum methodologies
+- Collaborating with development teams in reporting bugs, regression testing, and proposing improvements
+- Writing basic automated test scripts in Python
+
+###DATABASE ENGINEER
+Przemysław Starosta
+- Automation of the database and SQL queries for an online store.
 
 
 
