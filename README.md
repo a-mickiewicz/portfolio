@@ -7,37 +7,42 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 
 
 ## NARZĘDZIA
-- Postman
-- Slack
-- Jira
-- Trello
-- TestLink
-- Github
-- Lambda Test
-- PicPick
-- Window resizer
-- Clear cache
-- Perfect Pixel
-- Page Ruler
+- Postman (API testing)
+- Slack (komunikacja zespołowa)
+- Jira (zarządzanie projektami i zgłoszeniami błędów)
+- Trello (zarządzanie zadaniami)
+- TestLink (zarządzanie testami)
+- GitHub (kontrola wersji i współpraca zespołowa)
+- LambdaTest (testowanie cross-browser)
+- Docker
+- Python IDE (Pycharm, Cursor)
+- PyTest
+- PicPick (narzędzie do zrzutów ekranu i edycji)
+- Window Resizer (testowanie responsywności stron)
+- Clear Cache (szybkie czyszczenie pamięci podręcznej przeglądarki)
+- Perfect Pixel (precyzyjne porównywanie designu do implementacji)
+- Page Ruler (pomiar elementów na stronie)
 
 ## UMIEJĘTNOŚCI
 - Myślenie analityczne
-- Bardzo dobra komunikacja i współpraca
-- Zdolność do adaptacji
-- Dobre zarządzanie czasem
-- Krytyczne myślenie
-- Chęć do ciągłej nauki i rozwoju
+- Bardzo dobra komunikacja i współpraca zespołowa
+- Zdolność do adaptacji w dynamicznym środowisku
+- Dobre zarządzanie czasem i priorytetami
+- Krytyczne myślenie i rozwiązywanie problemów
+- Silna motywacja do ciągłej nauki i rozwoju zawodowego
+- Umiejętności pracy zdalnej
+- Praca pod presją czasu
 
 ## UMIEJĘTNOŚCI TECHNICZNE
-- SQL: Postgres, Snowflake, MSSQLServer, MySQL
-- DBT: Visual Studio Code, Snowflake
-- Python: Django, Tkinter
-- Cloud & Devops Tools: AWS, Azure Data Studio
-- Testing Ttechnology: Jira, Postman, TestLink, 
-- Version Control: GIT
-- Methodologies & Processes: Scrum Agile, Kanban, Waterfall, BDD, XP
-- AI Tools: Cursor, Make, OpenAI, Perplexity, Midjourney
-- Notepad ++
+- Bazy danych i SQL: PostgreSQL, Snowflake, MSSQL Server, MySQL
+- DBT (Data Build Tool): praca w Visual Studio Code, Integracja z Snowflake
+- Python: Django (web development, Tkinter (GUI applications)
+- Chmura i Devops: AWS, Azure Data Studio
+- Testowanie: Jira, Postman, TestLink 
+- Kontrola Wersji: GIT (GitHub, GitLab)
+- Metodyki pracy: Scrum Agile, Kanban, Waterfall, BDD (Behavior Driven Development), XP (Extreme Programming)
+- Narzędzia AI: Cursor, Make, OpenAI, Perplexity, Midjourney i inne
+- Edytory kodu: Notepad ++
 
 ## KURSY
 ### QA
@@ -56,28 +61,29 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 ### Python
 - Python From Scratch (312h) - Software Developement Academy
 
-### Git | Scrum | Agile | Kanban | XP | Waterfall | Bdd
+### Metodyki i narzędzia zarządzania
 - Version Control - EPAM Course
-- Software Development Methodologies - EPAM Course	
+- Software Development Methodologies - EPAM Course (Scrum, Agile, Kanban, XP, Waterfall, BDD)	
 
-### AWS | Docker
-- Cloud Technologies - EPAM Course
+### Chmura i konteneryzacja
+- Cloud Technologies (AWS, Docker) - EPAM Course
 
 ## DOŚWIADCZENIE
 ### QA Tester
 QA Spec Natalia Pawlak			
-- Creating and executing SQL queries to verify data accuracy and functionality
-- Conducting manual functional testing
-- Performing REST API testing using Postman
-- Creating test documentation — test cases, scenarios, and bug reports
-- Verifying AI tools (Generative AI) for correctness of results and testing user prompts
-- Working with version control systems (Git) in team environments following Agile/Scrum methodologies
-- Collaborating with development teams in reporting bugs, regression testing, and proposing improvements
-- Writing basic automated test scripts in Python
+- Tworzenie i wykonywanie zapytań SQL w celu weryfikacji poprawności i integralności danych
+- Przeprowadzanie testów manualnych funkcjonalnych systemów i aplikacji
+- Testowanie REST API za pomocą narzędzia Postman
+- Opracowywanie dokumentacji testowej: przypadków testowych, scenariuszy oraz raportów błędów
+- Weryfikacja narzędzi AI (Generative AI) pod kątem poprawności wyników i testowanie promptów użytkowników
+- Praca z systemami kontroli wersji (Git) w zespołach korzystających z metodyk Agile/Scrum
+- Współpraca z zespołami developerskimi w zakresie zgłaszania błędów, testów regresyjnych i proponowania usprawnień
+- Pisanie podstawowych skryptów automatyzujących testy w Pythonie
+- PyTest
 
 ### Database Engineer
 Przemysław Starosta
-- Automation of the database and SQL queries for an online store.
+- Autmatyzacja procesów bazy danych (zapytania i funkcje SQL) dla sklepu online
 
 
 
