@@ -1,4 +1,5 @@
 # Porfolio
+[Linkedin Profile](https://www.linkedin.com/in/armick)
 ## O MNIE
 
 Nazywam się Arkadiusz Mickiewicz. Jestem absolwentem Architektury i Urbanistyki na Politechnice Poznańskiej, z ponad 15-letnim doświadczeniem zawodowym jako architekt. Przez lata rozwijałem swoje kompetencje w zakresie projektowania, planowania przestrzennego oraz nadzoru nad realizacją różnorodnych inwestycji. Praca w tej branży nauczyła mnie precyzji, dbałości o szczegóły, analitycznego podejścia oraz skutecznej współpracy zarówno z zespołami projektowymi, jak i klientami. Dzięki temu potrafię sprawnie działać w dynamicznym środowisku i elastycznie reagować na zmieniające się potrzeby projektowe.
@@ -85,6 +86,3 @@ QA Spec Natalia Pawlak
 Przemysław Starosta
 - Autmatyzacja procesów bazy danych (zapytania i funkcje SQL) dla sklepu online
 
-
-
-[Linkedin Profile](https://www.linkedin.com/in/armick). For example, this will produce a sequence diagram:
