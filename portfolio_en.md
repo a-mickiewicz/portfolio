@@ -48,60 +48,37 @@ Currently, I am focused on a new career path in the IT industry, with particular
 
 ## Courses
 ### QA
-
-Manual testing course - Paweł Podraza
+- Manual testing course - Paweł Podraza
 
 ### SQL
-
-Snowflake Certification: SnowPro Core COF-C02 Exam Prep - Nikolai Schuler
-
-The Complete SQL Masterclass 2024 - Nikolai Schuler
-
-DB / SQL - Data Analytics Engineering - EPAM Course
-
-The Complete DBT (Data Build Tool) Bootcamp - EPAM Course
-
-Microsoft SQL Server Management Studio - SDA
+- Snowflake Certification: SnowPro Core COF-C02 Exam Prep - Nikolai Schuler
+- The Complete SQL Masterclass 2024 - Nikolai Schuler
+- DB / SQL - Data Analytics Engineering - EPAM Course
+- The Complete DBT (Data Build Tool) Bootcamp - EPAM Course
+- Microsoft SQL Server Management Studio - SDA
 
 ### AI
-
 AI Devs Course - Generative AI - programming with AI - Adam Gospodarczyk, Jakub Mrugalski
 
 ### Python
-
-Python From Scratch (312h) - Software Development Academy
-
-Work Methodologies and Tools
-
-Version Control - EPAM Course
-
-Software Development Methodologies - EPAM Course (Scrum, Agile, Kanban, XP, Waterfall, BDD)
-
-Cloud and Containerization
-
-Cloud Technologies (AWS, Docker) - EPAM Course
+- Python From Scratch (312h) - Software Development Academy
+- Work Methodologies and Tools
+- Version Control - EPAM Course
+- Software Development Methodologies - EPAM Course (Scrum, Agile, Kanban, XP, Waterfall, BDD)
+- Cloud and Containerization
+- Cloud Technologies (AWS, Docker) - EPAM Course
 
 ## Experience
 ### QA Tester
+- Creating and executing SQL queries to verify data accuracy and integrity
+- Conducting manual functional tests of systems and applications
+- Testing REST API using Postman
+- Developing test documentation: test cases, scenarios, and bug reports
+- Verifying AI tools (Generative AI) for result accuracy and testing user prompts
+- Working with version control systems (Git) in teams using Agile/Scrum methodologies
+- Collaborating with development teams on bug reporting, regression testing, and improvement proposals
+- Writing basic scripts to automate tests in Python
+- PyTest
 
-Creating and executing SQL queries to verify data accuracy and integrity
-
-Conducting manual functional tests of systems and applications
-
-Testing REST API using Postman
-
-Developing test documentation: test cases, scenarios, and bug reports
-
-Verifying AI tools (Generative AI) for result accuracy and testing user prompts
-
-Working with version control systems (Git) in teams using Agile/Scrum methodologies
-
-Collaborating with development teams on bug reporting, regression testing, and improvement proposals
-
-Writing basic scripts to automate tests in Python
-
-PyTest
-
-###Database Engineer
-
-Automation of database processes (queries and SQL functions) for an online store
+### Database Engineer
+- Automation of database processes (queries and SQL functions) for an online store
