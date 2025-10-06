@@ -7,74 +7,44 @@ My name is Arkadiusz Mickiewicz. I am a graduate of Architecture and Urban Plann
 Currently, I am focused on a new career path in the IT industry, with particular interest in software testing and databases. This change is driven by my passion for technology and the desire to grow in a sector that is constantly evolving and offers continuous learning opportunities. The skills I gained in architecture—such as logical thinking, solving complex problems, and a project-oriented approach—I successfully apply now in work on IT process quality. My goal is to further improve technical competencies and actively contribute to creating reliable, functional solutions.
 
 ## Tools
-
-Postman (API testing)
-
-Slack (team communication)
-
-Jira (project and bug tracking)
-
-Trello (task management)
-
-TestLink (test management)
-
-GitHub (version control and team collaboration)
-
-LambdaTest (cross-browser testing)
-
-Docker
-
-Python IDE (Pycharm, Cursor)
-
-PyTest
-
-PicPick (screenshot and editing tool)
-
-Window Resizer (responsive design testing)
-
-Clear Cache (quick browser cache clearing)
-
-Perfect Pixel (precise design-to-implementation comparison)
-
-Page Ruler (measuring webpage elements)
+- Postman (API testing)
+- Slack (team communication)
+- Jira (project and bug tracking)
+- Trello (task management)
+- TestLink (test management)
+- GitHub (version control and team collaboration)
+- LambdaTest (cross-browser testing)
+- Docker
+- Python IDE (Pycharm, Cursor)
+- PyTest
+- PicPick (screenshot and editing tool)
+- Window Resizer (responsive design testing)
+- Clear Cache (quick browser cache clearing)
+- Perfect Pixel (precise design-to-implementation comparison)
+- Page Ruler (measuring webpage elements)
 
 ## Skills
 
-Analytical thinking
-
-Excellent communication and teamwork
-
-Ability to adapt in a dynamic environment
-
-Good time and priority management
-
-Critical thinking and problem-solving
-
-Strong motivation for continuous learning and professional development
-
-Remote work skills
-
-Working under time pressure
+- Analytical thinking
+- Excellent communication and teamwork
+- Ability to adapt in a dynamic environment
+- Good time and priority management
+- Critical thinking and problem-solving
+- Strong motivation for continuous learning and professional development
+- Remote work skills
+- Working under time pressure
 
 ## Technical Skills
 
-Databases and SQL: PostgreSQL, Snowflake, MSSQL Server, MySQL
-
-DBT (Data Build Tool): working in Visual Studio Code, integration with Snowflake
-
-Python: Django (web development), Tkinter (GUI applications)
-
-Cloud and DevOps: AWS, Azure Data Studio
-
-Testing: Jira, Postman, TestLink
-
-Version Control: GIT (GitHub, GitLab)
-
-Work Methodologies: Scrum Agile, Kanban, Waterfall, BDD (Behavior Driven Development), XP (Extreme Programming)
-
-AI Tools: Cursor, Make, OpenAI, Perplexity, Midjourney and others
-
-Code editors: Notepad ++
+- Databases and SQL: PostgreSQL, Snowflake, MSSQL Server, MySQL
+- DBT (Data Build Tool): working in Visual Studio Code, integration with Snowflake
+- Python: Django (web development), Tkinter (GUI applications)
+- Cloud and DevOps: AWS, Azure Data Studio
+- Testing: Jira, Postman, TestLink
+- Version Control: GIT (GitHub, GitLab)
+- Work Methodologies: Scrum Agile, Kanban, Waterfall, BDD (Behavior Driven Development), XP (Extreme Programming)
+- AI Tools: Cursor, Make, OpenAI, Perplexity, Midjourney and others
+- Code editors: Notepad ++
 
 ## Courses
 ### QA
