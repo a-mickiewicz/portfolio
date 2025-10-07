@@ -2,26 +2,20 @@
 [Linkedin Profile](https://www.linkedin.com/in/armick)
 
 ## About Me
-My name is Arkadiusz Mickiewicz. I am a graduate of Architecture and Urban Planning at Poznan University of Technology, with over 15 years of professional experience as an architect. Over the years, I have developed my skills in design, spatial planning, and supervision of various investments. Working in this field has taught me precision, attention to detail, analytical thinking, and effective collaboration with both project teams and clients. Thanks to this, I am able to operate efficiently in a dynamic environment and flexibly respond to changing project needs.
-
-Currently, I am focused on a new career path in the IT industry, with particular interest in software testing and databases. This change is driven by my passion for technology and the desire to grow in a sector that is constantly evolving and offers continuous learning opportunities. The skills I gained in architecture—such as logical thinking, solving complex problems, and a project-oriented approach—I successfully apply now in work on IT process quality. My goal is to further improve technical competencies and actively contribute to creating reliable, functional solutions.
+(..................)
 
 ## Tools
-- Postman (API testing)
-- Slack (team communication)
-- Jira (project and bug tracking)
-- Trello (task management)
-- TestLink (test management)
-- GitHub (version control and team collaboration)
-- LambdaTest (cross-browser testing)
+- Postman
+- Slack
+- Jira + XRay
+- Trello
+- TestLink
+- GitHub
+- LambdaTest
 - Docker
 - Python IDE (Pycharm, Cursor)
 - PyTest
-- PicPick (screenshot and editing tool)
-- Window Resizer (responsive design testing)
-- Clear Cache (quick browser cache clearing)
-- Perfect Pixel (precise design-to-implementation comparison)
-- Page Ruler (measuring webpage elements)
+
 
 ## Skills
 
