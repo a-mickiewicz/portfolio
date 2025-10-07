@@ -5,13 +5,13 @@ Nazywam się Arkadiusz Mickiewicz. Jestem QA Testerem Manualnym z zajawką na ba
 
 
 ## NARZĘDZIA
-- Postman (API testing)
-- Slack (komunikacja zespołowa)
-- Jira (zarządzanie projektami i zgłoszeniami błędów)
-- Trello (zarządzanie zadaniami)
-- TestLink (zarządzanie testami)
-- GitHub (kontrola wersji i współpraca zespołowa)
-- LambdaTest (testowanie cross-browser)
+- Postman
+- Slack 
+- Jira + XRay
+- Trello 
+- TestLink
+- GitHub
+- LambdaTest
 - Docker
 - Python IDE (Pycharm, Cursor)
 - PyTest
