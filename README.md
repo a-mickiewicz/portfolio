@@ -1,10 +1,7 @@
 # Porfolio
 [Linkedin Profile](https://www.linkedin.com/in/armick)
 ## O MNIE
-
-Nazywam się Arkadiusz Mickiewicz. Jestem absolwentem Architektury i Urbanistyki na Politechnice Poznańskiej, z ponad 15-letnim doświadczeniem zawodowym jako architekt. Przez lata rozwijałem swoje kompetencje w zakresie projektowania, planowania przestrzennego oraz nadzoru nad realizacją różnorodnych inwestycji. Praca w tej branży nauczyła mnie precyzji, dbałości o szczegóły, analitycznego podejścia oraz skutecznej współpracy zarówno z zespołami projektowymi, jak i klientami. Dzięki temu potrafię sprawnie działać w dynamicznym środowisku i elastycznie reagować na zmieniające się potrzeby projektowe.
-
-Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szczególnym zainteresowaniem testowaniem oprogramowania oraz bazami danych. Zmiana ta wynika z mojej pasji do technologii i chęci rozwoju w sektorze, który dynamicznie się zmienia i oferuje ciągłe możliwości nauki. Umiejętności zdobyte w architekturze – takie jak logiczne myślenie, rozwiązywanie złożonych problemów czy podejście projektowe – z powodzeniem wykorzystuję teraz w pracy nad jakością procesów IT. Moim celem jest dalsze doskonalenie kompetencji technicznych i aktywny udział w tworzeniu niezawodnych, funkcjonalnych rozwiązań.
+Nazywam się Arkadiusz Mickiewicz. Jestem QA Testerem Manualnym z zajawką na bazy danych i podstawami kodowania w Pythonie. Aktualnie zajmuję się testowaniem manualnym, a w przyszłości widzę siebie jako ETL testera i w testach automatycznych.  
 
 
 ## NARZĘDZIA
@@ -18,11 +15,6 @@ Obecnie skoncentrowałem się na nowym kierunku kariery – branży IT, ze szcze
 - Docker
 - Python IDE (Pycharm, Cursor)
 - PyTest
-- PicPick (narzędzie do zrzutów ekranu i edycji)
-- Window Resizer (testowanie responsywności stron)
-- Clear Cache (szybkie czyszczenie pamięci podręcznej przeglądarki)
-- Perfect Pixel (precyzyjne porównywanie designu do implementacji)
-- Page Ruler (pomiar elementów na stronie)
 
 ## UMIEJĘTNOŚCI
 - Myślenie analityczne
@@ -86,3 +78,5 @@ QA Spec Natalia Pawlak
 Przemysław Starosta
 - Autmatyzacja procesów bazy danych (zapytania i funkcje SQL) dla sklepu online
 
+## Perks 
+ Jestem absolwentem Architektury i Urbanistyki na Politechnice Poznańskiej, z ponad 15-letnim doświadczeniem zawodowym jako architekt. Przez lata rozwijałem swoje kompetencje w zakresie projektowania, planowania przestrzennego oraz nadzoru nad realizacją różnorodnych inwestycji. Praca w tej branży nauczyła mnie precyzji, dbałości o szczegóły, analitycznego podejścia oraz skutecznej współpracy zarówno z zespołami projektowymi, jak i klientami. Dzięki temu potrafię sprawnie działać w dynamicznym środowisku i elastycznie reagować na zmieniające się potrzeby projektowe.
