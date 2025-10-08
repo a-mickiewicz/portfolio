@@ -5,15 +5,18 @@
 (..................)
 
 ## Tools
-- Postman
-- Slack
 - Jira + XRay
-- Trello
+- Postman
 - TestLink
 - GitHub
+- Slack
+- Trello
 - LambdaTest
 - Docker
-- Python IDE (Pycharm, Cursor)
+- Python IDE
+- Pycharm
+- Cursor
+- Visual Studio Code
 - PyTest
 
 
