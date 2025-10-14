@@ -5,23 +5,16 @@
 (..................)
 
 ## Tools
-- Jira + XRay
-- Postman
-- TestLink
-- GitHub
-- Slack
-- Trello
-- LambdaTest
-- Docker
-- Python IDE
-- Pycharm
-- Cursor
-- Visual Studio Code
-- PyTest
-
+Postman
+Jira + XRay, TestLing, Trello
+GitHub
+LambdaTest, BrowserStack
+Docker
+Python IDE: Pycharm, Visual Studio Code
+PyTest
+Cursor
 
 ## Skills
-
 - Analytical thinking
 - Excellent communication and teamwork
 - Ability to adapt in a dynamic environment
@@ -32,7 +25,6 @@
 - Working under time pressure
 
 ## Technical Skills
-
 - Databases and SQL: PostgreSQL, Snowflake, MSSQL Server, MySQL
 - DBT (Data Build Tool): working in Visual Studio Code, integration with Snowflake
 - Python: Django (web development), Tkinter (GUI applications)
