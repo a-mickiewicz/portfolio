@@ -2,17 +2,17 @@
 [Linkedin Profile](https://www.linkedin.com/in/armick)
 
 ## ABOUT ME
-My nam is Arkadiusz Mickiewicz. I am a Manual QA Tester with a strong interest in databases and basic Python programming skills. Currently, I focus on manual testing, and in the future, I see myself working as an ETL tester and in automated testing.
+My name is Arkadiusz Mickiewicz. I am a Manual QA Tester with a strong interest in databases and basic Python programming skills. Currently, I focus on manual testing, and in the future, I see myself working as an ETL tester and in automated testing.
 
 ## TOOLS
-Postman
-Jira + XRay, TestLing, Trello
-GitHub
-LambdaTest, BrowserStack
-Docker
-Python IDE: Pycharm, Visual Studio Code
-PyTest
-Cursor
+- Postman
+- Jira + XRay, TestLing, Trello
+- GitHub
+- LambdaTest, BrowserStack
+- Docker
+- Python IDE: Pycharm, Visual Studio Code
+- PyTest
+- Cursor
 
 ## SKILLS
 - Analytical thinking
