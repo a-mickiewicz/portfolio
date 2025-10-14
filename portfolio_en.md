@@ -2,7 +2,7 @@
 [Linkedin Profile](https://www.linkedin.com/in/armick)
 
 ## About Me
-(..................)
+My nam is Arkadiusz Mickiewicz. I am a Manual QA Tester with a strong interest in databases and basic Python programming skills. Currently, I focus on manual testing, and in the future, I see myself working as an ETL tester and in automated testing.
 
 ## Tools
 Postman
