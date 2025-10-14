@@ -1,10 +1,10 @@
 # Portfolio
 [Linkedin Profile](https://www.linkedin.com/in/armick)
 
-## About Me
+## ABOUT ME
 My nam is Arkadiusz Mickiewicz. I am a Manual QA Tester with a strong interest in databases and basic Python programming skills. Currently, I focus on manual testing, and in the future, I see myself working as an ETL tester and in automated testing.
 
-## Tools
+## TOOLS
 Postman
 Jira + XRay, TestLing, Trello
 GitHub
@@ -14,7 +14,7 @@ Python IDE: Pycharm, Visual Studio Code
 PyTest
 Cursor
 
-## Skills
+## SKILLS
 - Analytical thinking
 - Excellent communication and teamwork
 - Ability to adapt in a dynamic environment
@@ -24,7 +24,7 @@ Cursor
 - Remote work skills
 - Working under time pressure
 
-## Technical Skills
+## TECHNICAL SKILLS
 - Databases and SQL: PostgreSQL, Snowflake, MSSQL Server, MySQL
 - DBT (Data Build Tool): working in Visual Studio Code, integration with Snowflake
 - Python: Django (web development), Tkinter (GUI applications)
@@ -35,7 +35,7 @@ Cursor
 - AI Tools: Cursor, Make, OpenAI, Perplexity, Midjourney and others
 - Code editors: Notepad ++
 
-## Courses
+## COURSES
 ### QA
 - Manual testing course - Paweł Podraza
 
@@ -57,7 +57,7 @@ AI Devs Course - Generative AI - programming with AI - Adam Gospodarczyk, Jakub 
 - Cloud and Containerization
 - Cloud Technologies (AWS, Docker) - EPAM Course
 
-## Experience
+## EXPERIENCE
 ### QA Tester
 - Creating and executing SQL queries to verify data accuracy and integrity
 - Conducting manual functional tests of systems and applications
