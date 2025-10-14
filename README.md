@@ -1,23 +1,18 @@
 # Porfolio
 [Linkedin Profile](https://www.linkedin.com/in/armick)
 ## O MNIE
-Nazywam się Arkadiusz Mickiewicz. Jestem QA Testerem Manualnym z zajawką na bazy danych i podstawami kodowania w Pythonie. Aktualnie zajmuję się testowaniem manualnym, a w przyszłości widzę siebie jako ETL testera i w testach automatycznych.  
+Nazywam się Arkadiusz Mickiewicz. Jestem QA Testerem Manualnym z zajawką na bazy danych i podstawami kodowania w Pythonie. Aktualnie zajmuję się testowaniem manualnym, a w przyszłości widzę siebie jako ETL testera i w testach automatycznych.   
 
 
 ## NARZĘDZIA
-- Jira + XRay
 - Postman
-- TestLink
+- Jira + XRay, TestLing, Trello
 - GitHub
-- Slack
-- Trello
-- LambdaTest
+- LambdaTest, BrowserStack
 - Docker
-- Python IDE
-- Pycharm
-- Cursor
-- Visual Studio Code
+- Python IDE: Pycharm, Visual Studio Code
 - PyTest
+- Cursor
 
 ## UMIEJĘTNOŚCI
 - Myślenie analityczne
@@ -82,4 +77,4 @@ Przemysław Starosta
 - Autmatyzacja procesów bazy danych (zapytania i funkcje SQL) dla sklepu online
 
 ## Perks 
- Jestem absolwentem Architektury i Urbanistyki na Politechnice Poznańskiej, z ponad 15-letnim doświadczeniem zawodowym jako architekt. Przez lata rozwijałem swoje kompetencje w zakresie projektowania, planowania przestrzennego oraz nadzoru nad realizacją różnorodnych inwestycji. Praca w tej branży nauczyła mnie precyzji, dbałości o szczegóły, analitycznego podejścia oraz skutecznej współpracy zarówno z zespołami projektowymi, jak i klientami. Dzięki temu potrafię sprawnie działać w dynamicznym środowisku i elastycznie reagować na zmieniające się potrzeby projektowe.
+Pracuję jako Manual Tester a z wykształcenia jestesm inżynierem architektem z ponad 15-letnim doświadczeniem zawodowym, ktory zmienił branżę na IT. Przez lata rozwijałem swoje kompetencje w zakresie projektowania, planowania przestrzennego oraz zarządzaniem procesem projektowym i realizacją inwestycji. Wszystkie doświadczenia w poprzednij branży przekają się na atuty w obecjej - nauczylem sie precyzji, dbałości o szczegóły, analitycznego podejścia oraz skutecznej współpracy zarówno z zespołami projektowymi, jak i klientami. Dzięki temu potrafię sprawnie działać w dynamicznym środowisku i elastycznie reagować na zmieniające się potrzeby projektowe.
